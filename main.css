@@ -1,0 +1,40 @@
+nav{
+ height: 90px;
+ background: #34ace0;
+ width: 100%;
+ height: 60px;
+ display: flex;
+}
+
+.apglab{
+ background-image:url(images/micro.jpg);
+  height: 400px;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+}
+.apglab h1{
+    font-size: 30px;
+    color:  rgb(38, 51, 135);
+    display: fixed;
+    font-family: 'open sans';
+  
+  }
+  .apglab h2{
+    font-size: 20 px;
+    color: rgb(38, 51, 135);
+    display: fixed;
+    font-family: 'open sans';
+  }
+  header .apglab{
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: flex-end;
+    justify-content:center;
+    flex-direction:column;
+    padding-inline-end: 50px;
+    
+  }
