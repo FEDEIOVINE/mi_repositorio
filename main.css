@@ -67,7 +67,43 @@ footer{
   color: aqua;
   width:"200px";
   }
-
+  .contenedor-map{
+    border:rgb(38, 51, 135);
+    border-style: double;
+      display: flex;
+      justify-content: space-evenly; 
+      text-align: center;
+      padding: 10px;
+  }
+  .contenido-maps{
+    padding: 50px;
+    align-items:center;
+    justify-content:flex;
+    flex-direction:column;
+  }
+  .contenido-maps h3{
+    color:rgb(38, 51, 135);
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'open sans';
+  }
+  
+  .contenido-maps h4{
+    color:rgb(38, 51, 135);
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: 'open sans';
+    text-decoration: underline;
+  }
+  .contenido-maps h5{
+    color:#34ace0;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: 'open sans';
+  }
 @media (max-width:768px){
     #intro, #equipo{
         width:90% !important;
