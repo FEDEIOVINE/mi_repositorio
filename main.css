@@ -104,6 +104,152 @@ footer{
     margin-bottom: 10px;
     font-family: 'open sans';
   }
+
+  .analisis{
+    background-image:url(images/análisis.jpg);
+     height: 500px;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: bottom;
+     background-attachment: fixed;
+   
+   }
+   
+    
+   header .analisis{
+     display: flex;
+     height: 430px;
+     width: 100%;
+     align-items: center;
+     justify-content:center;
+     flex-direction:column;
+     padding-inline-end: 50px;
+     
+   }
+   .contenedor-clinicos{
+    display: flex;
+    justify-content: space-evenly; 
+    height: auto;
+    width: auto;
+    border-color: rgb(38, 51, 135) ;
+    border-style: double;
+    text-align: center;
+   }
+   
+   .analisis h1{
+     font-size: 30px;
+     color:  rgb(38, 51, 135);
+     display: fixed;
+     font-family: 'open sans';
+   
+   }
+   .analisis h2{
+     font-size: 20 px;
+     color: rgb(38, 51, 135);
+     display: fixed;
+     font-family: 'open sans';
+   }
+   header .contacto{
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content:center;
+    background-image:url(images/iphone.azul.jpg);
+    font-family: 'open sans';
+    
+  }
+  
+  .contacto h1{
+    font-size: 30px;
+    color: white;
+    display: fixed;
+    font-family: 'open sans';
+  }
+  .contacto{
+    
+     height: 500px;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: bottom;
+     background-attachment: fixed;
+  }
+  .contenedor-contacto{
+    display: flex;
+    justify-content: space-evenly; 
+    height: 300px;
+    border-color: rgb(38, 51, 135) ;
+    border-style: double;
+    text-align: center;
+  }
+  
+  .contenido-contacto{
+    padding: 30px;
+    align-items:center;
+    justify-content:flex;
+    flex-direction:column;
+  }
+  
+  .contenido-contacto h3{
+    color:#666666;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'open sans';
+    font-style: bold;
+  }
+  
+  .contenido-contacto h4{
+    color:rgb(38, 51, 135);
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: 'open sans';
+    text-decoration: underline;
+  }
+  .sobre{
+    background-image:url(images/tubos.jpg);
+     height: 500px;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: bottom;
+     background-attachment: fixed;
+   }
+   
+    
+   header .sobre{
+     display: flex;
+     height: 430px;
+     width: 100%;
+     align-items: center;
+     justify-content:center;
+     flex-direction:column;
+     padding-inline-end: 50px;
+     
+   }
+   .contenedor-sobre{
+    display: flex;
+    justify-content: space-evenly; 
+    height: auto;
+    width: auto;
+    border-color: rgb(38, 51, 135) ;
+    border-style: double;
+    text-align: center;
+   }
+   
+   .sobre h1{
+     font-size: 30px;
+     color:  rgb(38, 51, 135);
+     display: fixed;
+     font-family: 'open sans';
+   
+   }
+   .sobre h2{
+     font-size: 20 px;
+     color: rgb(38, 51, 135);
+     display: fixed;
+     font-family: 'open sans';
+   }
 @media (max-width:768px){
     #intro, #equipo{
         width:90% !important;

@@ -43,32 +43,22 @@
             </div>
           </div>
         </nav>
-        <section class="contenedor maps">
-            <div class="contenedor-map">
-                <div class="google">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.0876916568086!2d-58.434254000000024!3d-34.60194399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca71f9ecc9cd%3A0x6b3d4a4f2e3c33b0!2sAPGlab%20%7C%20Laboratorio%20Dra.%20Adriana%20P%C3%A9rez%20Gim%C3%A9nez!5e0!3m2!1ses!2sar!4v1663099571188!5m2!1ses!2sar" width="500" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-                <div class="contenido-maps ">
-                    <h3>Tte. Gral. E. Frias 338 (Villa Crespo - CABA)</h3>
-                
-                     <h3>Horarios de Atención</h3>
-                     <H4>Lunes a Viernes</H4>
-                     <h5>Extracción, toma de muestra y recepción de muestras: 7 a 13 Horas </h5>
-                     <h5>Atención administrativa: 7 a 18 Horas</h5>
-                     <h4>Sabados</h4>
-                     <h5>Atención administrativa, extracción de sangre y recepción de muestras: 7 a 12 Horas</h5>
-                     <br><br>
-                    <div class="contacto-ubi">
-                        <h3>Contacto</h3>
-                        <h5>Whatsapp: 11-2558-0136 | 4855-5999 | 4854-9045</h5>
-                        <a href="https://linktr.ee/APGlab" target="_blank"> <img src="../images/wpp.logo.png" alt="whatsapp" width="100px"></a>
-            
-                    </div>
-                     
-                    
-                </div>
-            </div>
+        <section class="sobre">
+            <h1>Desde hace 35 años</h1>
+            <h2>Tu laboratorio de confianza</h2>
         </section>
+    </header>    
+<main>
+    <section class="contenedor clinicos">
+        <h2 class="titulo"> Tus análisis, en tu laboratorio de confianza.</h2>
+        <div class=" contenedor-sobre">
+            <div class="Contenido-sobre">
+                <h3> Laboratorio Bioquímico</h3>
+                <p>lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui dolorum mollitia sit porro ducimus. Odit doloremque sequi, officia sapiente doloribus soluta dolor iste magnam praesentium cum architecto minus veritatis at?
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto aut velit optio iure iste? Sequi ut vero quos sed hic ab error cupiditate atque? Ipsam illo molestias dolorum vel expedita.
+            lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, hic ad voluptatum asperiores, est deleniti incidunt maxime illum ex corporis molestias dolorem, ipsam consequatur reprehenderit sint unde facilis obcaecati praesentium.</p>
+            </div>
+        </div>
      
    <footer class="w-100 d-flex align-items justify-content-center flex-wrap">
     <p class>
