@@ -115,7 +115,9 @@ footer{
         width: 100% !important;
         text-align: center;
     }
-    
+    .contenedor-map{
+        width: 80% !important;
+    }
 }
 @media screen (max-width:576px)
 {
